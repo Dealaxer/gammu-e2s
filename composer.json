@@ -1,0 +1,19 @@
+{
+    "name": "dealaxer/gammu-e2s",
+    "description": "Package Laravel for Gammu(SMSD) through a Web interface that allows sending SMS via email.",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "dealaxer",
+            "email": "dealaxer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+         "Dealaxer\\GammuE2S\\":"src"
+       }
+    }
+}
