@@ -1,6 +1,12 @@
 # gammu-e2s
 Package Laravel for Gammu(SMSD) through a Web interface that allows sending SMS via email.
 
+![Dashboard](http://s16.radikal.ru/i190/1711/ce/5cdeb242ff4b.png "Dashboard")
+All screenshots at the end of this manual
+
+<i>Required: PHP + PHP-IMAP</i><br>
+<i>Locale: EN,RU</i>
+
 1) Install Gammu<br>
 <code>sudo apt-get install gammu</code>
 
@@ -63,4 +69,4 @@ Dealaxer\GammuE2S\GammuE2SProvider::class,
 <li><code>chmod -R ug+rwx storage bootstrap/cache</code></li>
 </ul>
 
-12) You are now ready to use the Web interface!<br>
+12) You are now ready to use the Web interface!
