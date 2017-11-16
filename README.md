@@ -71,7 +71,8 @@ Dealaxer\GammuE2S\GammuE2SProvider::class,
 
 12) You are now ready to use the Web interface!
 
-13) Screenshots of Web interface:
+
+**Screenshots of Web interface:**
 
 ![GammuE2S](http://s018.radikal.ru/i512/1711/37/c037be18f6ef.png "GammuE2S")
 
